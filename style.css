@@ -1,0 +1,10 @@
+.terminal,span,.cmd,div { 
+    --color: rgba(0, 128, 0, 0.99);
+}
+.terminal, span {
+    --size: 1.4;
+}
+
+body {
+    background-color: rgba(2, 36, 114, 0.862);
+  }
