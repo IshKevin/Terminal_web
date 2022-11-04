@@ -3,6 +3,7 @@ var liner = document.getElementById("liner");
 var command = document.getElementById("typer"); 
 var textarea = document.getElementById("texter"); 
 var terminal = document.getElementById("terminal");
+whois = ["hello its your boy kevin","hope you are good"];
 
 var git = 0;
 var pw = false;
@@ -95,7 +96,7 @@ function commander(cmd) {
     case "sudo":
       addLine("Oh no, you're not admin...", "color2", 80);
       setTimeout(function() {
-        window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
+        window.open('https://github.com/IshKevin');
       }, 1000); 
       break;
     case "social":
@@ -117,7 +118,7 @@ function commander(cmd) {
       addLine("<br>", "command", 80 * commands.length + 50);
       break;
     case "email":
-      addLine('Opening mailto:<a href="mailto:forrest@fkcodes.com">forrest@fkcodes.com</a>...', "color2", 80);
+      addLine('Opening mailto:<a href="mailto:carterk279@gmail.com">carterk279@gmail.com</a>...', "color2", 80);
       newTab(email);
       break;
     case "clear":
