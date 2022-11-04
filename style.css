@@ -5,7 +5,7 @@ body {
   width: 100%;
   min-width: 550px;
   color: #519975;
-  background: #322e2c;
+  background: #27221a;
   font-family: cursor, monospace;
   overflow-x: hidden;
 }
@@ -61,7 +61,7 @@ b {
 }
 #liner::before {
   color: #519975;
-  content: "Welcome@IshiKevin#Twebsite_$:";
+content: "Welcome@IshiKevin_website~$:";
 }
 #liner.password::before {
   content: "Password:";
