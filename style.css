@@ -5,7 +5,7 @@ body {
   width: 100%;
   min-width: 550px;
   color: #519975;
-  background: #282a36;
+  background: #211D1B;
   font-family: cursor, monospace;
   overflow-x: hidden;
 }
@@ -103,7 +103,7 @@ p {
   color: #DCDCCC;
 }
 .color2 {
-  color: #B89076;
+  color: #c7b76aef;
 }
 .command {
   color: #73ABAD;
