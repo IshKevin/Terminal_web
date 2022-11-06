@@ -7,14 +7,19 @@ var terminal = document.getElementById("terminal");
 var GitHub =
 
 
-whois = ["hello its your boy kevin","hope you are good"];
+whois = [
+'',  
+"Hey there am kevin ishimwe",
+"Am full stack software engineer from Rwanda who build software and website like this one",
+"Am currently make bchourse degree in computer and software engineering in university of Rwanda",
+"But also, am self-thought programmer who have skills in different programing language but most"];
 
 
 projects =["If you are interested in visit my GitHub "];
 
 
 help =[
-'<chelp        Display all commands',
+'help        Display all commands',
 'whois       Who is kevin ?',
 'projects    Display my coding project projects',
 'social      Display social networks',
@@ -33,7 +38,7 @@ banner = ['copy right 2022',
 
 " __               .__ ",        
 "|  | __ _______  _|__| ____",  
-"|  |/ // __ \  \/ /  |/    \ ",
+"|  |/ // __ \  \/ /  |/    \ V<br>",
 '|    <\  ___/\   /|  |   |  \ ',
 '|__|_ \\___  >\_/ |__|___|  /',
 '     \/    \/             \/ ',
