@@ -3,7 +3,29 @@ var liner = document.getElementById("liner");
 var command = document.getElementById("typer"); 
 var textarea = document.getElementById("texter"); 
 var terminal = document.getElementById("terminal");
+
+var GitHub =
 whois = ["hello its your boy kevin","hope you are good"];
+projects =["If you are interested in visit my GitHub "];
+help =[
+'Help        Display all commands',
+'projects    Display my projects',
+'Social      Display my social medias',
+'Email       if you want to send me an email',
+'banner      display top banner'];
+social =[''];
+email = [];
+banner = ['copy right 2022',
+
+' __               .__ ',        
+'|  | __ _______  _|__| ____',  
+"|  |/ // __ \  \/ /  |/    \ ",
+'|    <\  ___/\   /|  |   |  \ ',
+'|__|_ \\___  >\_/ |__|___|  /',
+'     \/    \/             \/ ',
+
+'<p style="font-family: isometric2;">ishimwe kevin</p>',
+'welcome to my website type "help" for more information',];
 
 var git = 0;
 var pw = false;
@@ -56,7 +78,7 @@ function enterKey(e) {
     if (e.keyCode == 13) {
       commands.push(command.innerHTML);
       git = commands.length;
-      addLine("visitor@fkcodes.com:~$ " + command.innerHTML, "no-animation", 0);
+      addLine("Welcome@IshiKevin_website~$: " + command.innerHTML, "no-animation", 0);
       commander(command.innerHTML.toLowerCase());
       command.innerHTML = "";
       textarea.value = "";
