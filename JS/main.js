@@ -43,7 +43,7 @@ email = [];
 
 banner = [
 '<div style="color:white;">Engineer kevin . It a presuala to have you here.</div>',
-"<div><pre>",
+"<div style= size:5><pre>",
 "      __",
 '                   ",".',
 '                      ",\ ',
