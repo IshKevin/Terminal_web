@@ -28,23 +28,36 @@ help =[
 'banner      display top banner'];
 
 
-social =[''];
+social =['<div>',
+"    ",
+'GitHub      follow for magic ',
+'LinkedIn    let connect',
+'Twitter     let follow',
+'instagram   let follow',
+'facebook    let be friend',
+'  ',
+'</div>'];
 
 
 email = [];
 
-
-banner = ['copy right 2022',
-
-" __               .__ ",        
-"|  | __ _______  _|__| ____",  
-"|  |/ // __ \  \/ /  |/    \ V<br>",
-'|    <\  ___/\   /|  |   |  \ ',
-'|__|_ \\___  >\_/ |__|___|  /',
-'     \/    \/             \/ ',
-
-'<p style="font-family: isometric2;">ishimwe kevin</p>',
-'welcome to my website type "help" for more information',];
+banner = [
+'<div style="color:white;">Engineer kevin . It a presuala to have you here.</div>',
+"<div><pre>",
+"      __",
+'                   ",".',
+'                      ",\ ',
+'                      / Y',
+"     ,             _,'--.\ ",
+"     \_-(         ;--(/\ )",
+"     ",
+"     ",
+'~~~~~~~~~~~~~~~',
+'######################',
+';;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;',
+'</pre></div>',
+'<div>welcome to my terminal website</div>',
+'For a list of available commands, type <color=white;>help</color>.',];
 
 
 
