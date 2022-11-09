@@ -19,13 +19,17 @@ projects =["If you are interested in visit my GitHub "];
 
 
 help =[
-'help        Display all commands',
+"    ",
+"<p>",
+'<Bold>help</Bold>        Display all commands',
 'whois       Who is kevin ?',
 'projects    Display my coding project projects',
 'social      Display social networks',
 'history     View command history ',
 'email       if you want to send me an email',
-'banner      display top banner'];
+'banner      display top banner',
+"   ",
+'</p>'];
 
 
 social =['<div>',
@@ -43,7 +47,8 @@ email = [];
 
 banner = [
 '<div style="color:white;">Engineer kevin . It a presuala to have you here.</div>',
-'',
+'       ',
+"    ",
 '                    ",".',
 '                      ",\\ ',
 "                      / Y",
