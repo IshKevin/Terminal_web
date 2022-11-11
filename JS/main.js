@@ -21,13 +21,13 @@ projects =["If you are interested in visit my GitHub "];
 help =[
 "    ",
 "<p>",
-'<Bold>help</Bold>        Display all commands',
-'whois       Who is kevin ?',
-'projects    Display my coding project projects',
-'social      Display social networks',
-'history     View command history ',
-'email       if you want to send me an email',
-'banner      display top banner',
+'<FONT COLOR="#B89076">help</FONT>          Display all commands',
+'<FONT COLOR="#B89076">whois</font>         Who is kevin ?',
+'<FONT COLOR="#B89076">projects</font>      Display my coding project projects',
+'<FONT COLOR="#B89076">social</font>        Display social networks',
+'<FONT COLOR="#B89076">history</font>       View command history ',
+'<FONT COLOR="#B89076">email</font>         if you want to send me an email',
+'<FONT COLOR="#B89076">banner</font>        display top banner',
 "   ",
 '</p>'];
 
