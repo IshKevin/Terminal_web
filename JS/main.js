@@ -8,11 +8,13 @@ var GitHub =
 
 
 whois = [
-'',  
+"       ",  
 "Hey there am kevin ishimwe",
 "Am full stack software engineer from Rwanda who build software and website like this one",
-"Am currently make bchourse degree in computer and software engineering in university of Rwanda",
-"But also, am self-thought programmer who have skills in different programing language but most"];
+"Am currently make  bachelor's degree in computer and software engineering in university of Rwanda",
+"But also, am self-thought programmer who have skills in different programing language but most",
+"in DART(FLUTTER), PYTHON , JAVA ,C/C++ and WEB DEVELOPEMENT",
+'     ',];
 
 
 projects =["If you are interested in visit my GitHub "];
@@ -48,25 +50,23 @@ email = [];
 banner = [
 '<div style="color:white;">Engineer kevin . It a presuala to have you here.</div>',
 "  ",
-"<FONT COLOR='#FFFF99'><small>                _            _.,----,</small>",
-"<FONT COLOR='#FFFF99'><small>     __  _.-._ / '-.        -  ,._  \\)",
-"<FONT COLOR='#FFFF99'><small>    |  `-)_   '-.  \\       / < _ )/' }",
-"<FONT COLOR='#FFFF99'><small>    /__    '-.  \\   '-, ___(c-(6)=(6)",
-"<FONT COLOR='#FFFF99'><small>     , `'.    `._ '.  _,'   >\\    '  )",
-"<FONT COLOR='#FFFF99'><small>     :;;,,'-._   '---' (  ( '/`. -='/",
-"<FONT COLOR='#FFFF99'><small>    ;:;;:;;,  '..__    ,`-.`)'- '--'             ####  ######  ##     ## ####         ##    ## ######## ##     ## #### ##    ##",
-"<FONT COLOR='#FFFF99'><small>    ;';:;;;;;'-._ /'._|   Y/   _/' \\              ##  ##    ## ##     ##  ##          ##   ##  ##       ##     ##  ##  ###   ##",
-"<FONT COLOR='#FFFF99'><small>          ''''._ F    |  _/ _.'._   `\\            ##  ##       ##     ##  ##          ##  ##   ##       ##     ##  ##  ####  ##",
-"<FONT COLOR='#FFFF99'><small>                 L    \\   \\/     '._  \\           ##   ######  #########  ##  ####### #####    ######   ##     ##  ##  ## ## ##",
-"<FONT COLOR='#FFFF99'><small>          .-,-,_ |     `.  `'---,  \\_ _|          ##        ## ##     ##  ##          ##  ##   ##        ##   ##   ##  ##  ####",
-"<FONT COLOR='#FFFF99'><small>          //    'L    /  \\,   ('--',=`)7          ##  ##    ## ##     ##  ##          ##   ##  ##         ## ##    ##  ##   ###",
-"<FONT COLOR='#FFFF99'><small>         | `._       : _,  \\  /'`-._L,_'-._      ####  ######  ##     ## ####         ##    ## ########    ###    #### ##    ##",
-"<FONT COLOR='#FFFF99'><small>         '--' '-.\\__/ _L   .`'         './/                                                                     ©IshiKevin 2022",
-"<FONT COLOR='#FFFF99'><small>                     [ (  /",
-"<FONT COLOR='#FFFF99'><small>                      ) `{",
-"<FONT COLOR='#FFFF99'><small>                      \\__)",
-'~~~~~~~~~~~~~~~',
-';;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;',
+"<small>                _            _.,----,</small>",
+"<small>     __  _.-._ / '-.        -  ,._  \\)",
+"<small>    |  `-)_   '-.  \\       / < _ )/' }",
+"<small>    /__    '-.  \\   '-, ___(c-(6)=(6)",
+"<small>     , `'.    `._ '.  _,'   >\\    '  )",
+"<small>     :;;,,'-._   '---' (  ( '/`. -='/",
+"<small>    ;:;;:;;,  '..__    ,`-.`)'- '--'             ####  ######  ##     ## ####         ##    ## ######## ##     ## #### ##    ##",
+"<small>    ;';:;;;;;'-._ /'._|   Y/   _/' \\              ##  ##    ## ##     ##  ##          ##   ##  ##       ##     ##  ##  ###   ##",
+"<small>          ''''._ F    |  _/ _.'._   `\\            ##  ##       ##     ##  ##          ##  ##   ##       ##     ##  ##  ####  ##",
+"<small>                 L    \\   \\/     '._  \\           ##   ######  #########  ##  ####### #####    ######   ##     ##  ##  ## ## ##",
+"<small>          .-,-,_ |     `.  `'---,  \\_ _|          ##        ## ##     ##  ##          ##  ##   ##        ##   ##   ##  ##  ####",
+"<small>          //    'L    /  \\,   ('--',=`)7          ##  ##    ## ##     ##  ##          ##   ##  ##         ## ##    ##  ##   ###",
+"<small>         | `._       : _,  \\  /'`-._L,_'-._      ####  ######  ##     ## ####         ##    ## ########    ###    #### ##    ##",
+"<small>         '--' '-.\\__/ _L   .`'         './/                                                                     ©IshiKevin 2022",
+"<small>                     [ (  /",
+"<small>                      ) `{",
+"<small>                      \\__)",
 '<FONT COLOR="#FFFF99">welcome to my terminal website</div>',
 '<FONT COLOR="#FFFF99">For a list of available commands, type <color=white;>help</color>.',];
 
