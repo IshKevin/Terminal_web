@@ -4,7 +4,12 @@ var command = document.getElementById("typer");
 var textarea = document.getElementById("texter"); 
 var terminal = document.getElementById("terminal");
 
-var GitHub =
+var GitHub = "https://github.com/IshKevin";
+var instagram ="https://www.instagram.com/ishi_kevin";
+var twitter ="https://twitter.com/_kevinishimwe";
+var linkedin ="https://www.linkedin.com/in/ishimwe-kevin-81795421b/";
+var facebook ="https://www.facebook.com/kevin.ishimwe.142";
+var email = "https://mail.google.com/mail/",
 
 
 whois = [
@@ -34,15 +39,14 @@ help =[
 '</p>'];
 
 
-social =['<div>',
+social =[
 "    ",
-'GitHub      follow for magic ',
-'LinkedIn    let connect',
-'Twitter     let follow',
-'instagram   let follow',
-'facebook    let be friend',
-'  ',
-'</div>'];
+'<FONT COLOR="#B89076">GitHub</font>        GitHub/IshKevin ',
+'<FONT COLOR="#B89076">LinkedIn</font>      LinkedIn/Ishimwe kevin',
+'<FONT COLOR="#B89076">Twitter</font>       Twitter/_kevinishimwe',
+'<FONT COLOR="#B89076">instagram</font>     Instagram/ishi_kevin',
+'<FONT COLOR="#B89076">facebook</font>      Facebook/Ish kevin',
+'  ',];
 
 
 email = [];
@@ -198,9 +202,9 @@ function commander(cmd) {
       loopLines(banner, "", 80);
       break;
     // socials
-    case "youtube":
-      addLine("Opening YouTube...", "color2", 80);
-      newTab(youtube);
+    case "facebook":
+      addLine("Opening Facebook...", "color2", 80);
+      newTab(facebook);
       break;
     case "twitter":
       addLine("Opening Twitter...", "color2", 0);
@@ -216,7 +220,7 @@ function commander(cmd) {
       break;
     case "github":
       addLine("Opening GitHub...", "color2", 0);
-      newTab(github);
+      newTab(GitHub);
       break;
     default:
       addLine("<span class=\"inherit\">Command not found. For a list of commands, type <span class=\"command\">'help'</span>.</span>", "error", 100);
