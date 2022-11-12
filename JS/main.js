@@ -27,7 +27,7 @@ why =["    ",
 "but with help command everything will be magic",
 "   ",];
 
-projects =["If you are interested in visit my GitHub "];
+projects =["If you are interested in my projects visit my GitHub "];
 
 
 help =[
@@ -95,11 +95,6 @@ setTimeout(function() {
 
 window.addEventListener("keyup", enterKey);
 
-console.log(
-  "%cYou hacked my password!😠",
-  "color: #04ff00; font-weight: bold; font-size: 24px;"
-);
-console.log("%cPassword: '" + password + "' - I wonder what it does?🤔", "color: grey");
 
 //init
 textarea.value = "";
@@ -186,9 +181,6 @@ function commander(cmd) {
       break;
     case "projects":
       loopLines(projects, "color2 margin", 80);
-      break;
-    case "password":
-      addLine("<span class=\"inherit\"> Lol! You're joking, right? You\'re gonna have to try harder than that!😂</span>", "error", 100);
       break;
     case "history":
       addLine("<br>", "", 0);
