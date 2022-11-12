@@ -21,9 +21,11 @@ whois = [
 "in DART(FLUTTER), PYTHON , JAVA ,C/C++ and WEB DEVELOPEMENT",
 '     ',];
 
-why = ["The only reason that i created thi website is beocouse",
+why =["    ", 
+"The only reason that i created thi website is beocouse",
 "i wanted something different and i know it felles engineed ",
-"but with help command everything will be magic"];
+"but with help command everything will be magic",
+"   ",];
 
 projects =["If you are interested in visit my GitHub "];
 
@@ -77,7 +79,7 @@ banner = [
 "<FONT COLOR='#addb67'><small>                      ) `{",
 "<FONT COLOR='#addb67'><small>                      \\__)",
 '<FONT COLOR="#FFFF99">welcome to my terminal website</div>',
-'<FONT COLOR="#FFFF99">For a list of available commands, type <color=white;>help</color>.',];
+'<FONT COLOR="#FFFF99">For a list of available commands, type <FONT COLOR="#519975">help</font>.',];
 
 
 
