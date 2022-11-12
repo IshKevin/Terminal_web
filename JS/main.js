@@ -21,6 +21,9 @@ whois = [
 "in DART(FLUTTER), PYTHON , JAVA ,C/C++ and WEB DEVELOPEMENT",
 '     ',];
 
+why = ["The only reason that i created thi website is beocouse",
+"i wanted something different and i know it felles engineed ",
+"but with help command everything will be magic"];
 
 projects =["If you are interested in visit my GitHub "];
 
@@ -30,11 +33,13 @@ help =[
 "<p>",
 '<FONT COLOR="#B89076">help</FONT>          Display all commands',
 '<FONT COLOR="#B89076">whois</font>         Who is kevin ?',
+'<FONT COLOR="#B89076">why</font>           if you want to know why ',
 '<FONT COLOR="#B89076">projects</font>      Display my coding project projects',
 '<FONT COLOR="#B89076">social</font>        Display social networks',
 '<FONT COLOR="#B89076">history</font>       View command history ',
 '<FONT COLOR="#B89076">email</font>         if you want to send me an email',
 '<FONT COLOR="#B89076">banner</font>        display top banner',
+'<FONT COLOR="#B89076">sudo</font>          if you think that you are admin',
 "   ",
 '</p>'];
 
@@ -54,7 +59,7 @@ email = [];
 banner = [
 '<div style="color:white;">Engineer kevin . It a presuala to have you here.</div>',
 "  ",
-"<small>                _            _.,----,</small>",
+"<FONT COLOR='#DCDCCC'><small>                _            _.,----,</small>",
 "<small>     __  _.-._ / '-.        -  ,._  \\)",
 "<small>    |  `-)_   '-.  \\       / < _ )/' }",
 "<small>    /__    '-.  \\   '-, ___(c-(6)=(6)",
@@ -157,8 +162,8 @@ function commander(cmd) {
     case "whois":
       loopLines(whois, "color2 margin", 80);
       break;
-    case "whoami":
-      loopLines(whoami, "color2 margin", 80);
+    case "why":
+      loopLines(why, "color2 margin", 80);
       break;
     case "video":
       addLine("Opening YouTube...", "color2", 80);
