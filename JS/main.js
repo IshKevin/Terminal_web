@@ -22,7 +22,7 @@ whois = [
 '     ',];
 
 why =["    ", 
-"The only reason that i created thi website is beocouse",
+"The only reason that i created this website is becouse",
 "i wanted something different and i know it felles engineed ",
 "but with help command everything will be magic",
 "   ",];
